@@ -9,7 +9,7 @@
 ## proxy browser
 浏览器       |  Android  | PC    |另外支持|备注
 ------      |:-----:    |:-----:|:----:|:-----:
-灵狐浏览器   |     √     |√      |  IOS     |需手机号登录；[下载](https://ie.linkfoxvpn.com/#/)
+灵狐浏览器   |     √     |√      |  IOS     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
 龙卷风浏览器 |×          |√      
 UPX         |√          |×      |  IOS      |失效（2020年7月26日）；[官网](https://www.upxb.net/)
 Tenta Browser|√         |×      |          |失效（2020年7月26日）
