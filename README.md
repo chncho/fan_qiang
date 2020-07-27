@@ -47,7 +47,7 @@ the best VPN deals| |[3](https://thebestvpndeals.com/)
 
 # 测评、教程
 网站|备注|点击访问
---|--|--
+--|--|:--:
 墙外看   |  |[1](https://qiangwaikan.com/)
 VPN信息网|  |[2](https://vpnxxw.com/)
 10BEASTS |  |[3](https://10beasts.net/)
@@ -58,3 +58,15 @@ VPN时光网|  |[6](https://vpnsg.net/)
 
 # GitHub上
 搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
+
+
+
+
+# 免翻墙下谷歌商店软件
+网站|备注|官网
+--|  |:--:
+观道   |    |[1](http://www.guandao.cc/)
+Freeapk|    |[2](https://freeapk.mobi/)
+APKSSL |    |[3](https://apkssl.com/zh-cn/)
+APKTurbo|   |[4](https://www.apkturbo.com/)
+APPTOGAME|  |[5](https://apptogame.com/)
