@@ -26,12 +26,13 @@ VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
 Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV；  |[官网](https://windscribe.com/)
 hide.me |√     |√    |IOS；Mac；Linux；|[官网](https://hide.me/en/)
 Free VPN|√     |×    |IOS      |[官网](http://freevpn.org/)
-
+Tunnelbear|√   |√    |IOS；Mac；chrome extension；|[官网](https://www.tunnelbear.com/)
 
 ## chrome插件
 插件    |安装  |备注
 ---|:---:|:----:
 Astar VPN|[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
+Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 
 ### 导航网站
 网站               |备注             |网址
