@@ -41,3 +41,20 @@ Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omda
 国外VPN大全        |  |[1](https://www.vpnwebsite.net/)
 国外VPN网址导航    |  |[2](https://www.bestvpp.com/)
 the best VPN deals| |[3](https://thebestvpndeals.com/)
+
+
+
+
+# 测评、教程
+网站|备注|点击访问
+--|--|--
+墙外看   |  |[1](https://qiangwaikan.com/)
+VPN信息网|  |[2](https://vpnxxw.com/)
+10BEASTS |  |[3](https://10beasts.net/)
+翻墙网络 |   |[4](https://fanqiang.network/)
+翻墙LIVE |  |[5](https://www.fanqiang.live/index/index)
+VPN时光网|  |[6](https://vpnsg.net/)
+
+
+# GitHub上
+搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
