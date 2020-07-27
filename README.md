@@ -35,6 +35,9 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 Astar VPN|[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
 Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 
+## ssr
+学习中……
+
 ### 导航网站
 网站               |备注             |点击访问
 --|:--:|:--:
