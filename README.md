@@ -64,7 +64,7 @@ VPN时光网|  |[6](https://vpnsg.net/)
 
 # 免翻墙下谷歌商店软件
 网站|备注|官网
---|  |:--:
+--| --- |:--:
 观道   |    |[1](http://www.guandao.cc/)
 Freeapk|    |[2](https://freeapk.mobi/)
 APKSSL |    |[3](https://apkssl.com/zh-cn/)
