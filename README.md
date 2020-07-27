@@ -57,7 +57,7 @@ VPN信息网|  |[2](https://vpnxxw.com/)
 翻墙网络 |   |[4](https://fanqiang.network/)
 翻墙LIVE |  |[5](https://www.fanqiang.live/index/index)
 VPN时光网|  |[6](https://vpnsg.net/)
-
+WizCase  |  |[7](https://zh.wizcase.com/blog/)
 
 # GitHub上
 搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
