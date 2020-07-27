@@ -36,7 +36,7 @@ Astar VPN|[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-
 Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 
 ### 导航网站
-网站               |备注             |网址
+网站               |备注             |点击访问
 --|:--:|:--:
 国外VPN大全        |  |[1](https://www.vpnwebsite.net/)
 国外VPN网址导航    |  |[2](https://www.bestvpp.com/)
@@ -63,7 +63,7 @@ VPN时光网|  |[6](https://vpnsg.net/)
 
 
 # 免翻墙下谷歌商店软件
-网站|备注|官网
+网站|备注|点击访问
 --| --- |:--:
 观道   |    |[1](http://www.guandao.cc/)
 Freeapk|    |[2](https://freeapk.mobi/)
