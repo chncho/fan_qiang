@@ -19,10 +19,10 @@ Puffin      |√          |×      |         |      失效（2020年7月26日）
 ## VPN  
 VPN    |Android| PC |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
-老王VPN |√     |√    |        谷歌商店下载
+老王VPN |√     |√    |IOS；Mac|谷歌商店下载
 小明VPN |√     |×    | IOS     |
-蓝灯    |√     |×    |         |月500M；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)
-VPN Gate|√     |√    |         |[下载](https://www.vpngate.net/cn/)
+蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)
+VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
 
 ## chrome插件
 插件    |安装  |备注
