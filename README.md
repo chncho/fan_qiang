@@ -23,10 +23,11 @@ VPN    |Android| PC |另外支持|备注
 小明VPN |√     |×    | IOS     |
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
-Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV；  |[官网](https://windscribe.com/)
-hide.me |√     |√    |IOS；Mac；Linux；|[官网](https://hide.me/en/)
+Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |[官网](https://windscribe.com/)
+hide.me |√     |√    |IOS；Mac；Linux |[官网](https://hide.me/en/)
 Free VPN|√     |×    |IOS      |[官网](http://freevpn.org/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension；|[官网](https://www.tunnelbear.com/)
+Tunnelbear|√   |√    |IOS；Mac；chrome extension |[官网](https://www.tunnelbear.com/)
+Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 
 ## chrome插件
 插件    |安装  |备注
