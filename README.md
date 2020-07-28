@@ -21,7 +21,7 @@ VPN    |Android| PC |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
 老王VPN |√     |√    |IOS；Mac|谷歌商店下载
 小明VPN |√     |×    | IOS     |
-蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)
+蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可使用[此法](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
 Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |[官网](https://windscribe.com/)
 hide.me |√     |√    |IOS；Mac；Linux |[官网](https://hide.me/en/)
