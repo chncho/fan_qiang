@@ -54,7 +54,7 @@ VPN信息网|  |[2](https://vpnxxw.com/)
 VPN时光网|  |[6](https://vpnsg.net/)
 WizCase  |  |[7](https://zh.wizcase.com/blog/)
 
-# 自行补习
+# 课下补习
 ## GitHub上
 搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
 
