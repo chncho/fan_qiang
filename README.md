@@ -54,10 +54,12 @@ VPN信息网|  |[2](https://vpnxxw.com/)
 VPN时光网|  |[6](https://vpnsg.net/)
 WizCase  |  |[7](https://zh.wizcase.com/blog/)
 
-# GitHub上
+# 自行补习
+## GitHub上
 搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
 
-
+# YouTube
+搜索关键词，如翻墙、VPN、proxy、科学上网等
 
 
 # 免翻墙下谷歌商店软件
