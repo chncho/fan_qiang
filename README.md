@@ -1,5 +1,5 @@
 # 概要
-大致有如下几个方法：在线代理、proxy browser、VPN、chrome插件、SS/SSR/V2ray、自己搭建
+大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray、自己搭建
 ## 在线代理
 网站|链接|备注
 :-:|:-:|:-:
@@ -27,11 +27,11 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 
 
 
-## chrome插件
-插件    |安装  |备注
+## browser entension
+extension    |备注  |安装
 ---|:---:|:----:
-Astar VPN|[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
-Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
+Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
+Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 
 ## SS/SSR/V2ray
 GitHub的项目|备注|点击访问
