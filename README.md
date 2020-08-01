@@ -1,5 +1,5 @@
 # 概要
-大致有如下几个方法：在线代理、proxy browser、VPN、chrome插件、ssr、自己搭建
+大致有如下几个方法：在线代理、proxy browser、VPN、chrome插件、SS/SSR/V2ray、自己搭建
 ## 在线代理
 网站|链接|备注
 :-:|:-:|:-:
@@ -33,8 +33,14 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 Astar VPN|[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
 Tunnelbear VPN|[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 
-## ssr
-学习中……
+## SS/SSR/V2ray
+GitHub的项目|备注|点击访问
+------------|------------|-----------
+Free-SS-SSR|              |[1](https://github.com/ThinkDevelop/Free-SS-SSR)
+SSR节点列表生成器|         |[2](https://github.com/devtip/ssr_subscrible_tool)
+shadowsocks-rss|          |[3](https://github.com/shadowsocksr-backup/shadowsocks-rss)
+ssr         |             |[4](https://github.com/wandou911/ssr)
+
 
 ### 导航网站
 网站               |备注             |点击访问
@@ -63,10 +69,12 @@ VPNDada |   |[9](https://www.vpndada.com/)
 
 # 学无止境
 ## GitHub上
-搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网、ss、ssr等
+搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
+
+Share-SSR-V2ray:https://github.com/selierlin/Share-SSR-V2ray
 
 # YouTube
-搜索关键词，如翻墙、VPN、proxy、科学上网、ss、ssr等
+搜索关键词，如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
 
 
 # 免翻墙下谷歌商店软件
