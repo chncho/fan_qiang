@@ -23,6 +23,9 @@ Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   
 hide.me |√     |√    |IOS；Mac；Linux |[官网](https://hide.me/en/)
 Tunnelbear|√   |√    |IOS；Mac；chrome extension |[官网](https://www.tunnelbear.com/)
 Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
+黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
+
+
 
 ## chrome插件
 插件    |安装  |备注
