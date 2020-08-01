@@ -40,6 +40,9 @@ Free-SS-SSR|              |[1](https://github.com/ThinkDevelop/Free-SS-SSR)
 SSR节点列表生成器|         |[2](https://github.com/devtip/ssr_subscrible_tool)
 shadowsocks-rss|          |[3](https://github.com/shadowsocksr-backup/shadowsocks-rss)
 ssr         |             |[4](https://github.com/wandou911/ssr)
+ssr-download|             |[5](https://github.com/xcxnig/ssr-download)
+ssrpanel-v2ray|           [6](https://github.com/MoeGrid/ssrpanel-v2ray)
+ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
 
 
 ### 导航网站
@@ -71,8 +74,9 @@ VPNDada |   |[9](https://www.vpndada.com/)
 ## GitHub上
 搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
 
-Share-SSR-V2ray:https://github.com/selierlin/Share-SSR-V2ray
-
+Share-SSR-V2ray: https://github.com/selierlin/Share-SSR-V2ray
+nogfw: https://github.com/gfw-breaker/nogfw/
+new-pac: https://github.com/Alvin9999/new-pac/wiki
 # YouTube
 搜索关键词，如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
 
