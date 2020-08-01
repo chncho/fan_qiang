@@ -58,12 +58,12 @@ VPNDada |   |[9](https://www.vpndada.com/)
 
 
 
-# 课下补习
+# 学无止境
 ## GitHub上
-搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网等
+搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网、ss、ssr等
 
 # YouTube
-搜索关键词，如翻墙、VPN、proxy、科学上网等
+搜索关键词，如翻墙、VPN、proxy、科学上网、ss、ssr等
 
 
 # 免翻墙下谷歌商店软件
