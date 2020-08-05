@@ -31,7 +31,8 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
-Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
+Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)  
+>本人不常用，看心情添加
 
 ## SS/SSR/V2ray
 GitHub的项目|备注|点击访问
@@ -41,7 +42,7 @@ SSR节点列表生成器|         |[2](https://github.com/devtip/ssr_subscrible_
 shadowsocks-rss|          |[3](https://github.com/shadowsocksr-backup/shadowsocks-rss)
 ssr         |             |[4](https://github.com/wandou911/ssr)
 ssr-download|             |[5](https://github.com/xcxnig/ssr-download)
-ssrpanel-v2ray|           [6](https://github.com/MoeGrid/ssrpanel-v2ray)
+ssrpanel-v2ray|           |[6](https://github.com/MoeGrid/ssrpanel-v2ray)
 ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
 
 
@@ -50,7 +51,7 @@ ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
 --|:--:|:--:
 国外VPN大全        |  |[1](https://www.vpnwebsite.net/)
 国外VPN网址导航    |  |[2](https://www.bestvpp.com/)
-the best VPN deals| |[3](https://thebestvpndeals.com/)
+the best VPN deals|  |[3](https://thebestvpndeals.com/)
 
 
 
