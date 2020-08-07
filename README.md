@@ -37,9 +37,9 @@
 # 概要
 大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray、自己搭建
 ## 在线代理
-网站|链接|备注
+网站|备注|链接
 :-:|:-:|:-:
-|||
+AlloX-Proxy ||[1](https://dy.qnid.cc/)
  
 
 ## proxy browser
