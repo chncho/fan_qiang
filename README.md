@@ -43,10 +43,14 @@ AlloX-Proxy ||[1](https://dy.qnid.cc/)
  
 
 ## proxy browser
-浏览器       |  Android  | PC    |另外支持|备注
-------      |:-----:    |:-----:|:----:|:-----:
-灵狐浏览器   |     √     |√      |  IOS     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
-龙卷风浏览器 |×          |√      
+浏览器       |Android| PC |另外支持|备注
+------      |:-----: |:--:|:----:|:-----:
+灵狐浏览器   |   √    |√   |  IOS     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
+龙卷风浏览器 |×       |√   |
+绿光浏览器   |√       |√   |IOS、Mac   |需手机号登录；[官网](https://www.sgreennet.com/)  
+Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
+UR Browser  |√       |√   |IOS        |[官网](https://www.ur-browser.com/en-US)  
+
 
 ## VPN  
 VPN    |Android| PC |另外支持|备注
@@ -95,15 +99,17 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
 # 测评、教程
 网站|备注|点击访问
 --|--|:--:
-墙外看   |  |[1](https://qiangwaikan.com/)
-VPN信息网|  |[2](https://vpnxxw.com/)
+墙外看    |  |[1](https://qiangwaikan.com/)
+VPN信息网 |  |[2](https://vpnxxw.com/)
 10BEASTS |  |[3](https://10beasts.net/)
-翻墙网络 |   |[4](https://fanqiang.network/)
-翻墙LIVE |  |[5](https://www.fanqiang.live/index/index)
-VPN时光网|  |[6](https://vpnsg.net/)
+翻墙网络  |  |[4](https://fanqiang.network/)
+翻墙LIVE  |  |[5](https://www.fanqiang.live/index/index)
+VPN时光网 |  |[6](https://vpnsg.net/)
 WizCase  |  |[7](https://zh.wizcase.com/blog/)
-SSR中文网|   |[8](https://ssr.tools/)
-VPNDada |   |[9](https://www.vpndada.com/)
+SSR中文网 |  |[8](https://ssr.tools/)
+VPNDada  |  |[9](https://www.vpndada.com/)  
+vpnMentor|  |[10](https://zh.vpnmentor.com/)
+翻墙软件  |  |[11](https://www.chromeba.net/)  
 
 
 
