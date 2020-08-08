@@ -77,7 +77,7 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 ## SS/SSR/V2ray
 网站|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
-XiXicats  |×|√|√|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG
+XiXicats  |×|√|√|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
 
 
 GitHub的项目|备注|点击访问
@@ -91,7 +91,7 @@ ssrpanel-v2ray|           |[6](https://github.com/MoeGrid/ssrpanel-v2ray)
 ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
 
 
-### 导航网站
+# 导航网站
 网站               |备注             |点击访问
 --|:--:|:--:
 国外VPN大全        |  |[1](https://www.vpnwebsite.net/)
@@ -126,7 +126,7 @@ Share-SSR-V2ray: https://github.com/selierlin/Share-SSR-V2ray
 nogfw: https://github.com/gfw-breaker/nogfw/   
 new-pac: https://github.com/Alvin9999/new-pac/wiki   
 
-# YouTube 
+## YouTube 
 搜索关键词，如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
 
 
@@ -138,3 +138,12 @@ Freeapk|    |[2](https://freeapk.mobi/)
 APKSSL |    |[3](https://apkssl.com/zh-cn/)
 APKTurbo|   |[4](https://www.apkturbo.com/)
 APPTOGAME|  |[5](https://apptogame.com/)
+
+
+## 翻墙下谷歌商店软件
+网站|备注|点击访问
+--| --- |:--:
+ApkPure||[1](https://www.apkpure.com/cn/)  
+APK Downloader||[2](https://apk-dl.com/zh)  
+AndroidApk||[3](https://androidappsapk.co/apkdownloader/)  
+APKMirror||[4](https://www.apkmirror.com/)
