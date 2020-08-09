@@ -30,6 +30,16 @@
 [课程图谱](http://coursegraph.com/)  
 
 
+### 世界网站导航
+
+网站|备注|点击访问
+---|----|:---:
+世界各国网址大全||[1](http://www.world68.com/)  
+EGOUZ||[2](https://www.egouz.com/)  
+0430网站库||[3](http://www.0430.com/)  
+旅色网||[4](http://www.lvse.cn/)  
+看国外||[5](http://www.kguowai.com/)    
+去看看||[6](http://www.qkk999.com/)  
 
 
 ================================================
@@ -49,7 +59,7 @@ AlloX-Proxy ||[1](https://dy.qnid.cc/)
 龙卷风浏览器 |×       |√   |
 绿光浏览器   |√       |√   |IOS、Mac   |需手机号登录；[官网](https://www.sgreennet.com/)  
 Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
-UR Browser  |√       |√   |IOS        |[官网](https://www.ur-browser.com/en-US)  
+
 
 
 ## VPN  
