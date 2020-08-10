@@ -28,7 +28,8 @@
 [BBC News 中文](https://www.bbc.com/zhongwen/simp.amp)  
 [Coursade](http://www.coursade.com/)  
 [课程图谱](http://coursegraph.com/)  
-
+[维基百科: 订阅人数最多的YouTube频道](https://zh.wikipedia.org/wiki/%E8%AE%A2%E9%98%85%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84YouTube%E9%A2%91%E9%81%93)  
+[influence: 中国大陆Top 250 YouTube网红排行榜](https://cn.noxinfluencer.com/youtube-channel-rank/top-250-cn-all-youtuber-sorted-by-subs-weekly)  
 
 ### 世界网站导航
 
@@ -176,3 +177,4 @@ PronVPN|15天|[1](https://proon.top/)
 VyprVPN|3天|[2](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
 坚果VPN|1天|[3](https://nutsvpn.work/)  
 
+>> 日后本页面会关闭
