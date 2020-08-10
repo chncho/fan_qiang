@@ -69,12 +69,12 @@ VPN    |Android| PC |另外支持|备注
 小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
-Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |[官网](https://windscribe.com/)
+Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |月10G（无email注册2G）[官网](https://windscribe.com/)
 hide.me |√     |√    |IOS；Mac；Linux |[官网](https://hide.me/en/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension |[官网](https://www.tunnelbear.com/)
+Tunnelbear|√   |√    |IOS；Mac；chrome extension |月500M；[官网](https://www.tunnelbear.com/)
 Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
-
+ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
 
 
 ## browser entension
