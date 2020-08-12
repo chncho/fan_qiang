@@ -113,7 +113,7 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
 
 
 
-# 测评、教程
+# 翻墙信息
 网站|备注|点击访问
 --|--|:--:
 墙外看    |  |[1](https://qiangwaikan.com/)
@@ -132,7 +132,8 @@ VPNnice  |   |[13](https://www.vpnnice.com/)
 TopChineseVPN||[14](https://www.topchinesevpn.com/)  
 翻墙后    |   |[15](https://fanqianghou.com/)  
 PlayBeasts|  |[16](https://playbeasts.com/)  
-
+翻墙党     |  |[17](https://fanqiangdang.com/)  
+免费翻墙网 |  |[18](https://freefq.com/)  
 
 
 
@@ -171,10 +172,10 @@ APKMirror||[4](https://www.apkmirror.com/)
 
 
 有试用期的VPN  
-VPN|试用时长|官网
---|:----:|:----:
-PronVPN|15天|[1](https://proon.top/)  
-VyprVPN|3天|[2](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
-坚果VPN|1天|[3](https://nutsvpn.work/)  
+VPN|试用时长|备注|官网
+--|:----:|:----:|:----:
+PronVPN|15天||[1](https://proon.top/)  
+VyprVPN|3天||[2](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
+坚果VPN|1天||[3](https://nutsvpn.work/)  
 
 >> 日后本页面会关闭
