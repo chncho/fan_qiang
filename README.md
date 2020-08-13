@@ -83,12 +83,22 @@ extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
 Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)  
->本人不常用，看心情添加
+
+> 本人不常用，看心情添加
 
 ## SS/SSR/V2ray
 机场|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
-XiXicats  |×|√|√|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
+XiXicats  |×|√|×|5个免费节点，注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
+
+> 以上仅总结机场的免费服务
+
+相关网站|备注|点击访问
+--|:--:|:--:
+月下博客||[1](https://ssrvps.org/)
+v2ray官网||[2](https://v2ray.com/)
+SSR中文网 |  |[3](https://ssr.tools/)
+ssr节点||[4](http://ssssr.net/ssssr)
 
 
 GitHub的项目|备注|点击访问
@@ -123,23 +133,21 @@ VPN信息网 |  |[2](https://vpnxxw.com/)
 翻墙LIVE  |  |[5](https://www.fanqiang.live/index/index)
 VPN时光网 |  |[6](https://vpnsg.net/)
 WizCase  |  |[7](https://zh.wizcase.com/blog/)
-SSR中文网 |  |[8](https://ssr.tools/)
-VPNDada  |  |[9](https://www.vpndada.com/)  
-vpnMentor|  |[10](https://zh.vpnmentor.com/)
-翻墙软件  |  |[11](https://www.chromeba.net/)   
-ssr节点   |  |[12](http://ssssr.net/)  
-VPNnice  |   |[13](https://www.vpnnice.com/)  
-TopChineseVPN||[14](https://www.topchinesevpn.com/)  
-翻墙后    |   |[15](https://fanqianghou.com/)  
-PlayBeasts|  |[16](https://playbeasts.com/)  
-翻墙党     |  |[17](https://fanqiangdang.com/)  
-免费翻墙网 |  |[18](https://freefq.com/)  
+VPNDada  |  |[8](https://www.vpndada.com/)  
+vpnMentor|  |[9](https://zh.vpnmentor.com/)
+翻墙软件  |  |[10](https://www.chromeba.net/)   
+VPNnice  |   |[11](https://www.vpnnice.com/)  
+TopChineseVPN||[12](https://www.topchinesevpn.com/)  
+翻墙后    |   |[13](https://fanqianghou.com/)  
+PlayBeasts|  |[14](https://playbeasts.com/)  
+翻墙党     |  |[15](https://fanqiangdang.com/)  
+免费翻墙网 |  |[16](https://freefq.com/)  
 
 
 
 # 学无止境
 ## GitHub上
-搜索关键词（All GitHub），如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
+搜索关键词（All GitHub），如翻墙、VPN、科学上网、SS/SSR/V2ray等
 
 Share-SSR-V2ray: https://github.com/selierlin/Share-SSR-V2ray   
 nogfw: https://github.com/gfw-breaker/nogfw/   
@@ -147,7 +155,7 @@ new-pac: https://github.com/Alvin9999/new-pac/wiki
 lantern: https://github.com/ntkernel/lantern
 
 ## YouTube 
-搜索关键词，如翻墙、VPN、proxy、科学上网、SS/SSR/V2ray等
+搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
 
 
 # 免翻墙下谷歌商店软件
