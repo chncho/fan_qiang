@@ -93,6 +93,13 @@ XiXicats  |×|√|×|5个免费节点，注册送100G，签到送流量|[这是�
 
 > 以上仅总结机场的免费服务
 
+#### 免费节点分享
+网站|节点
+--|:--:
+lncn.org |[ssr](https://lncn.org/)
+放牧的风|[ss](https://www.youneed.win/free-ss);[ssr](https://www.youneed.win/free-ssr);[v2ray](https://www.youneed.win/free-v2ray)
+
+
 相关网站|备注|点击访问
 --|:--:|:--:
 月下博客||[1](https://ssrvps.org/)
@@ -106,10 +113,6 @@ SSR中文网||[7](https://ssr.tools/)
 
 GitHub的项目|备注|点击访问
 ------------|------------|-----------
-Free-SS-SSR|              |[1](https://github.com/ThinkDevelop/Free-SS-SSR)
-SSR节点列表生成器|         |[2](https://github.com/devtip/ssr_subscrible_tool)
-shadowsocks-rss|          |[3](https://github.com/shadowsocksr-backup/shadowsocks-rss)
-ssr         |             |[4](https://github.com/wandou911/ssr)
 ssr-download|             |[5](https://github.com/xcxnig/ssr-download)
 ssrpanel-v2ray|           |[6](https://github.com/MoeGrid/ssrpanel-v2ray)
 ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
