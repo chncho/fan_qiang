@@ -90,6 +90,7 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 机场|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
 XiXicats  |×|√|×|5个免费节点，注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
+樱云|×|×|√|4个免费节点，使用我的链接注册获10G，签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
 
 > 以上仅总结机场的免费服务
 
