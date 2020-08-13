@@ -93,11 +93,12 @@ XiXicats  |×|√|×|5个免费节点，注册送100G，签到送流量|[这是�
 
 > 以上仅总结机场的免费服务
 
-#### 免费节点分享
+### 免费节点分享
 网站|节点
 --|:--:
 lncn.org |[ssr](https://lncn.org/)
-放牧的风|[ss](https://www.youneed.win/free-ss);[ssr](https://www.youneed.win/free-ssr);[v2ray](https://www.youneed.win/free-v2ray)
+放牧的风|[ss](https://www.youneed.win/free-ss); [ssr](https://www.youneed.win/free-ssr); [v2ray](https://www.youneed.win/free-v2ray)
+Telegram|[ss](https://t.me/s/ssList); [ssr](https://t.me/s/ssrList); [v2ray](https://t.me/s/V2List)
 
 
 相关网站|备注|点击访问
@@ -109,14 +110,8 @@ SSR中文网 |  |[4](https://ssr.tools/)
 ssr节点||[5](http://ssssr.net/ssssr)
 免费SSR/SS||[6](https://m.ssrtool.us/free_ssr)
 SSR中文网||[7](https://ssr.tools/)
-
-
-GitHub的项目|备注|点击访问
-------------|------------|-----------
-ssr-download|             |[5](https://github.com/xcxnig/ssr-download)
-ssrpanel-v2ray|           |[6](https://github.com/MoeGrid/ssrpanel-v2ray)
-ShadowsocksRRShare|       |[7](https://github.com/ruanfei/ShadowsocksRRShare)
-
+Share-SSR-V2ray||[8](https://github.com/selierlin/Share-SSR-V2ray)
+new-pac||[9](https://github.com/Alvin9999/new-pac/wiki )
 
 # 导航网站
 网站               |备注             |点击访问
@@ -150,21 +145,13 @@ PlayBeasts|  |[14](https://playbeasts.com/)
 免费翻墙网 |  |[16](https://freefq.com/)  
 
 
-
-# 学无止境
-## GitHub上
-搜索关键词（All GitHub），如翻墙、VPN、科学上网、SS/SSR/V2ray等
-
-Share-SSR-V2ray: https://github.com/selierlin/Share-SSR-V2ray   
-nogfw: https://github.com/gfw-breaker/nogfw/   
-new-pac: https://github.com/Alvin9999/new-pac/wiki   
-lantern: https://github.com/ntkernel/lantern
-
-## YouTube 
-搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
+## 附注1
+在 GitHub / YouTube 搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
 
 
-# 免翻墙下谷歌商店软件
+## 附注2
+免翻墙下谷歌商店软件
+
 网站|备注|点击访问
 --| --- |:--:
 观道   |    |[1](http://www.guandao.cc/)
@@ -174,7 +161,9 @@ APKTurbo|   |[4](https://www.apkturbo.com/)
 APPTOGAME|  |[5](https://apptogame.com/)
 
 
-## 翻墙下谷歌商店软件
+## 附注3
+翻墙下谷歌商店软件
+
 网站|备注|点击访问
 --| --- |:--:
 ApkPure||[1](https://www.apkpure.com/cn/)  
@@ -183,13 +172,14 @@ AndroidApk||[3](https://androidappsapk.co/apkdownloader/)
 APKMirror||[4](https://www.apkmirror.com/)
 
 
-
-
+## 附注4
 有试用期的VPN  
+
 VPN|试用时长|备注|官网
 --|:----:|:----:|:----:
 PronVPN|15天||[1](https://proon.top/)  
 VyprVPN|3天||[2](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
 坚果VPN|1天||[3](https://nutsvpn.work/)  
 
+## 附注5
 >> 日后本页面会关闭
