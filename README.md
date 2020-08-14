@@ -68,11 +68,11 @@ VPN    |Android| PC |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
 老王VPN |√     |√    |IOS；Mac|谷歌商店下载
 小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
-蓝灯    |√     |√    |IOS；Mac；Ubuntu|月500M；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
+蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
-Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |月10G（无email注册2G）[官网](https://windscribe.com/)
-hide.me |√     |√    |IOS；Mac；Linux |[官网](https://hide.me/en/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension |月500M；[官网](https://www.tunnelbear.com/)
+Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |10G/月（无email注册2G/月）[官网](https://windscribe.com/)
+Hide.me |√     |√    |IOS；Mac；Linux |2G/月；[官网](https://hide.me/en/)
+Tunnelbear|√   |√    |IOS；Mac；chrome extension |月500M；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
 Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
@@ -90,16 +90,19 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 机场|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
 XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
-樱云|×|×|√|使用我的链接注册获10G，签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
+樱云|×|×|√|使用邀请链接注册获10G（否则5G），签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
 
 > 以上仅总结机场的免费服务
 
 ### 免费节点分享
-网站|节点
---|:--:
-lncn.org |[ssr](https://lncn.org/)
-放牧的风|[ss](https://www.youneed.win/free-ss); [ssr](https://www.youneed.win/free-ssr); [v2ray](https://www.youneed.win/free-v2ray)
-Telegram|[ss](https://t.me/s/ssList); [ssr](https://t.me/s/ssrList); [v2ray](https://t.me/s/V2List)
+网站      |ss                                        |ssr                                                  |v2ray|
+--|:--:|:--:|:--:
+lncn.org |                                   |[1](https://lncn.org/)
+放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                 [1](https://www.youneed.win/free-v2ray)
+Telegram|[2](https://t.me/s/ssList)          |[3](https://t.me/s/ssrList)                            [2](https://t.me/s/V2List)
+免费翻墙网|[3](https://freefq.com/free-ss/)    |[4](https://freefq.com/free-ssr/)                     [3](https://freefq.com/v2ray/)
+翻墙党   |[4](https://fanqiangdang.com/forum-50-1.html)|[5](https://fanqiangdang.com/forum-2-1.html)  [4](https://fanqiangdang.com/forum-36-1.html)
+
 
 ### 相关网站
 网站|备注|点击访问
@@ -136,15 +139,12 @@ VPN信息网 |  |[2](https://vpnxxw.com/)
 翻墙LIVE  |  |[5](https://www.fanqiang.live/index/index)
 VPN时光网 |  |[6](https://vpnsg.net/)
 WizCase  |  |[7](https://zh.wizcase.com/blog/)
-VPNDada  |  |[8](https://www.vpndada.com/)  
+VPN大大  |  |[8](https://www.vpndada.com/)  
 vpnMentor|  |[9](https://zh.vpnmentor.com/)
 翻墙软件  |  |[10](https://www.chromeba.net/)   
 VPNnice  |   |[11](https://www.vpnnice.com/)  
-TopChineseVPN||[12](https://www.topchinesevpn.com/)  
-翻墙后    |   |[13](https://fanqianghou.com/)  
-PlayBeasts|  |[14](https://playbeasts.com/)  
-翻墙党     |  |[15](https://fanqiangdang.com/)  
-免费翻墙网 |  |[16](https://freefq.com/)  
+翻墙党     |  |[12](https://fanqiangdang.com/)  
+免费翻墙网 |  |[13](https://freefq.com/)  
 
 
 ## 附注1
@@ -180,8 +180,10 @@ APKMirror||[4](https://www.apkmirror.com/)
 VPN|试用时长|备注|官网
 --|:----:|:----:|:----:
 PronVPN|15天||[1](https://proon.top/)  
-VyprVPN|3天||[2](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
-坚果VPN|1天||[3](https://nutsvpn.work/)  
+VPN Unlimited|7天|[2](https://www.vpnunlimitedapp.com/)
+VyprVPN|3天||[3](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
+坚果VPN|1天||[4](https://nutsvpn.work/)  
+免费翻墙网总结||[5](https://freefq.com/vpn/)
 
 ## 附注5
 >> 日后本页面会关闭
