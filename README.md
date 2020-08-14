@@ -72,7 +72,7 @@ VPN    |Android| PC |另外支持|备注
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
 Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |10G/月（无email注册2G/月）[官网](https://windscribe.com/)
 Hide.me |√     |√    |IOS；Mac；Linux |2G/月；[官网](https://hide.me/en/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension |月500M；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
+Tunnelbear|√   |√    |IOS；Mac；chrome extension |500M/月；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
 Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
@@ -98,10 +98,10 @@ XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](
 网站      |ss                                        |ssr                                                  |v2ray|
 --|:--:|:--:|:--:
 lncn.org |                                   |[1](https://lncn.org/)
-放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                 [1](https://www.youneed.win/free-v2ray)
-Telegram|[2](https://t.me/s/ssList)          |[3](https://t.me/s/ssrList)                            [2](https://t.me/s/V2List)
-免费翻墙网|[3](https://freefq.com/free-ss/)    |[4](https://freefq.com/free-ssr/)                     [3](https://freefq.com/v2ray/)
-翻墙党   |[4](https://fanqiangdang.com/forum-50-1.html)|[5](https://fanqiangdang.com/forum-2-1.html)  [4](https://fanqiangdang.com/forum-36-1.html)
+放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
+Telegram|[2](https://t.me/s/ssList)          |[3](https://t.me/s/ssrList)                             | [2](https://t.me/s/V2List)
+免费翻墙网|[3](https://freefq.com/free-ss/)    |[4](https://freefq.com/free-ssr/)                      |[3](https://freefq.com/v2ray/)
+翻墙党   |[4](https://fanqiangdang.com/forum-50-1.html)|[5](https://fanqiangdang.com/forum-2-1.html)  |[4](https://fanqiangdang.com/forum-36-1.html)
 
 
 ### 相关网站
