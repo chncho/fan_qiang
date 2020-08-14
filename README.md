@@ -90,7 +90,7 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 机场|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
 XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
-樱云|×|√|√|使用我的链接注册获10G，签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
+樱云|×|×|√|使用我的链接注册获10G，签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
 
 > 以上仅总结机场的免费服务
 
@@ -101,8 +101,8 @@ lncn.org |[ssr](https://lncn.org/)
 放牧的风|[ss](https://www.youneed.win/free-ss); [ssr](https://www.youneed.win/free-ssr); [v2ray](https://www.youneed.win/free-v2ray)
 Telegram|[ss](https://t.me/s/ssList); [ssr](https://t.me/s/ssrList); [v2ray](https://t.me/s/V2List)
 
-
-相关网站|备注|点击访问
+### 相关网站
+网站|备注|点击访问
 --|:--:|:--:
 月下博客||[1](https://ssrvps.org/)
 v2ray官网||[2](https://v2ray.com/)
@@ -113,6 +113,7 @@ ssr节点||[5](http://ssssr.net/ssssr)
 SSR中文网||[7](https://ssr.tools/)
 Share-SSR-V2ray||[8](https://github.com/selierlin/Share-SSR-V2ray)
 new-pac||[9](https://github.com/Alvin9999/new-pac/wiki )
+奇少部落||[10](https://qsbl.cc/)
 
 # 导航网站
 网站               |备注             |点击访问
