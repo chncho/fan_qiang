@@ -194,5 +194,12 @@ VyprVPN|3天||[3](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 坚果VPN|1天||[4](https://nutsvpn.work/)  
 免费翻墙网总结|||[5](https://freefq.com/vpn/)
 
+
 ## 附注5
+Telegram|Link
+---|:--:
+飞翔测评|[1](https://t.me/s/zyfx888/123)
+
+
+## 附注6
 >> 日后本页面会关闭
