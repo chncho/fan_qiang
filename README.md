@@ -125,7 +125,7 @@ new-pac||[9](https://github.com/Alvin9999/new-pac/wiki )
 V2RaySSR综合网||[11](https://www.v2rayssr.com/)  
 网络跳跃||[12](https://hijk.art/)  
 V2Ray中文网||[13](https://v2raycn.com/) 
-SSRSHARE||[14]89https://www.ssrshare.com/）
+SSRSHARE||[14](https://www.ssrshare.com/）
 freegfw  ||[15](https://freegfw.cf/)
 
 
