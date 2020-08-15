@@ -78,6 +78,9 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
 
 
+> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/)  
+
+
 ## browser entension
 extension    |备注  |安装
 ---|:---:|:----:
