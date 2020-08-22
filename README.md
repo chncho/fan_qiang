@@ -82,7 +82,7 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
 
 
-> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/) ; SetupVPN(https://setupvpn.com/) 
+> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/) ; [SetupVPN](https://setupvpn.com/) 
 
 
 ## browser entension
@@ -214,6 +214,3 @@ VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 
 
-
-## 附注6
->> 日后本页面会关闭
