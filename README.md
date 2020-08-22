@@ -70,6 +70,7 @@ Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://ww
 VPN    |Android| PC |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
 老王VPN |√     |√    |IOS；Mac|谷歌商店下载
+猴王VPN |√     |未知 |未知     |谷歌商店下载
 小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
@@ -81,7 +82,7 @@ Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
 
 
-> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/)  
+> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/) ; SetupVPN(https://setupvpn.com/) 
 
 
 ## browser entension
@@ -105,11 +106,10 @@ XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](
 --|:--:|:--:|:--:
 lncn.org |                                   |[1](https://lncn.org/)
 放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
-Telegram|[2](https://t.me/s/ssList)          |[3](https://t.me/s/ssrList)                             | [2](https://t.me/s/V2List)
-免费翻墙网|[3](https://freefq.com/free-ss/)    |[4](https://freefq.com/free-ssr/)                      |[3](https://freefq.com/v2ray/)
-翻墙党   |[4](https://fanqiangdang.com/forum-50-1.html)|[5](https://fanqiangdang.com/forum-2-1.html)  |[4](https://fanqiangdang.com/forum-36-1.html)
-免费上网账号|                                   |[6](https://free-ss.site/)                            |[5](https://free-ss.site/)
-ssrtool  |                                     |[7](https://ssrtool.us/tool/free_ssr)                 |[6](https://ssrtool.us/tool/share_v2ray)
+免费翻墙网|[2](https://freefq.com/free-ss/)    |[3](https://freefq.com/free-ssr/)                      |[2](https://freefq.com/v2ray/)
+翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
+免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
+ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
 
 
 ### 相关网站
@@ -160,6 +160,7 @@ vpnMentor|  |[9](https://zh.vpnmentor.com/)
 VPNnice  |   |[11](https://www.vpnnice.com/)  
 翻墙党     |  |[12](https://fanqiangdang.com/)  
 免费翻墙网 |  |[13](https://freefq.com/)  
+爱翻墙    |   |[14](http://greatagent-ifanqiang.github.io/greatagent2-ga/ifanqiang.htm)  
 
 
 ## 附注1
@@ -199,13 +200,19 @@ VPN Unlimited|7天||[2](https://www.vpnunlimitedapp.com/)
 PUREVPN|7天|[3]( https://www.purevpn.com)
 VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
 坚果VPN|1天||[5](https://nutsvpn.work/)  
-免费翻墙网总结|||[6](https://freefq.com/vpn/)
+光年VPN|1天||[6](https://lightyearapp.club/zh)
+||||
+免费翻墙网总结|||[7](https://freefq.com/vpn/)
 
 
-## 附注5
-Telegram|Link
----|:--:
-飞翔测评|[1](https://t.me/s/zyfx888/123)
+## 机场导航
+网站|备注|点击访问
+---|:--:|:--:
+翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
+我爱白嫖||[2](https://52bp.org/index.html)
+灯油||[3](https://iyideng.cloud/)
+DuyaoSS||[4](https://www.duyaoss.com/page/1/)
+
 
 
 ## 附注6
