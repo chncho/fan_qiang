@@ -199,10 +199,11 @@ PronVPN|15天||[1](https://proon.top/)
 VPN Unlimited|7天||[2](https://www.vpnunlimitedapp.com/)
 PUREVPN|7天|[3]( https://www.purevpn.com)
 VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)  
-坚果VPN|1天||[5](https://nutsvpn.work/)  
-光年VPN|1天||[6](https://lightyearapp.club/zh)
+兔兔加速|3天||[5](https://v2.558844.xyz/)
+坚果VPN|1天||[6](https://nutsvpn.work/)  
+光年VPN|1天||[7](https://lightyearapp.club/zh)
 ||||
-免费翻墙网总结|||[7](https://freefq.com/vpn/)
+免费翻墙网总结|||[总结](https://freefq.com/vpn/)
 
 
 ## 机场导航
