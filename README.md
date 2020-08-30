@@ -1,5 +1,6 @@
 > 本仓库将于2020年12月31日后删除
 
+> 已开学，以后更新较少
 
 ——悟空  
 ——我传你翻墙之计，是让你在野外为所欲为的吗？  
@@ -97,7 +98,7 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 机场|SS|SSR|V2rary|备注|点击访问
 ----|:-:|:---:|:-------:|:---:|:-------:
 XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
-樱云|×|×|√|使用邀请链接注册获10G（否则5G），签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0IoZ9n)
+樱云|×|×|√|使用邀请链接注册获10G（否则5G），签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0ITQhc)
 
 > 以上仅总结机场的免费服务
 
