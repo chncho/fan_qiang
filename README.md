@@ -164,6 +164,7 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 翻墙党     |  |[12](https://fanqiangdang.com/)  
 免费翻墙网 |  |[13](https://freefq.com/)  
 爱翻墙    |   |[14](http://greatagent-ifanqiang.github.io/greatagent2-ga/ifanqiang.htm)  
+WallVPN  |  |[15](https://wallvpn.com/)  
 
 
 ## 附注1
